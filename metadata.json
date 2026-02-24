@@ -1,0 +1,5 @@
+{
+  "name": "Mosque Management System",
+  "description": "A comprehensive Mosque donation and management system with Firebase authentication, ImageKit integration, and admin dashboard.",
+  "requestFramePermissions": []
+}
